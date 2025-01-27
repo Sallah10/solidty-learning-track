@@ -10,7 +10,7 @@ contract Array{
     mapping(address => string[]) public mappedArray;
 }
 `
-contract Struct{
+contract StructExample{
     struct Course{
         string courseName;
         uint16 courseCode;
